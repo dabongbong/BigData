@@ -76,6 +76,6 @@ list = ["intra.h", "intra.c", "define.h", "run.py"]
 #     if i[-2:] == ".h" :
 #         print(i)
 
-for i in list:
-    if i[-2:] == ".h" or i[-2:] == ".c":
-        print(i)
+# for i in list:
+#     if i[-2:] == ".h" or i[-2:] == ".c":
+#         print(i)
