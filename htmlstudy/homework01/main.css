@@ -1,0 +1,22 @@
+header {
+    background : yellowgreen;
+}
+header img {
+    display: block;
+}
+main {
+    background: tomato;
+}
+main p {
+    background: red;
+    height: 120px;
+    width: 300px;
+}
+footer {
+    background: thistle;
+}
+footer p {
+    background: blue;
+    height: 120px;
+    width: 300px;
+}
